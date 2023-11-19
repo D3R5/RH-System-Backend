@@ -1,4 +1,4 @@
-# RH-System-Backend
+# RH-System-Backend - Java/Spring Boot
 Human resources application for managing people's data, such as name, work department, salary, allows to add, edit and delete people. Frontend with ReactJs, Backend with Java/SpringBoot, database with MySQL.
 First View (edit/delete user)
 ![rh1](https://github.com/D3R5/RH-System-Backend/assets/117954097/3f856b76-66d8-4c89-af50-d2a2f848ca68)
